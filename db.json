@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "email": "chris@chris.com",
+      "password": "$2a$10$/XIFP0l6XdxEHi1W.TnYV.IhFqBv4S7e7xPNzojXPTfnR/QetRAvG",
+      "name": "Chris",
+      "id": 1
+    }
+  ],
+  "menu": [
+    {
+      "title": "X-Bacon",
+      "type": "Sanduíche",
+      "image": "https://embutidosbonatti.ind.br/temp/BIN_57_V9Fb0BwK.jpg",
+      "price": "19,90",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "X-Egg",
+      "type": "Sanduíche",
+      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2018/10/x-egg-sanduiche-01-1024x936.jpg",
+      "price": "14,00",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "X-Burguer",
+      "type": "Sanduíche",
+      "image": "https://comeonburger.com.br/wp-content/uploads/2019/12/xburger.jpg",
+      "price": "12,00",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "X-Salada",
+      "type": "Sanduíche",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfVhYKdUhEa8e84SghqfbtPA4pa7KAlfr4Q&usqp=CAU",
+      "price": "12,00",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "X-Tudo",
+      "type": "Sanduíche",
+      "image": "https://admin.cmpedidos.com.br/foto/390/produtos/x-tudo-39823.jpg",
+      "price": "22,00",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "title": "Coca Cola 600ml",
+      "type": "Bebida",
+      "image": "https://zonasul.vtexassets.com/arquivos/ids/166266/19717VF4qT-qqCUAA.png?v=637371973301970000",
+      "price": "5,00",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Pepsi 1L",
+      "type": "Bebida",
+      "image": "https://cd.shoppub.com.br/beirario/media/cache/74/11/7411058c8e5b7e78e09f92b2f1a48366.jpg",
+      "price": "6,00",
+      "userId": 1,
+      "id": 7
+    }
+  ],
+  "cart": []
+}
